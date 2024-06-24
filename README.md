@@ -1,6 +1,6 @@
-# Next.js Project with Google NextAuth Authentication
+# Google NextAuth Authentication
 
-This project is a [Next.js](https://nextjs.org/) application that uses [NextAuth.js](https://next-auth.js.org/) for authentication with Google.
+This is a [Next.js](https://nextjs.org/) application that uses [NextAuth.js](https://next-auth.js.org/) for authentication with Google.
 
 ## Getting Started
 
