@@ -7,3 +7,10 @@
 .env.production.local
 .vscode
 .tailwind
+package.json
+package-lock.json
+.eslintrc.json
+next-env.d.ts 
+postcss.config.mjs
+tailwind.config.ts
+tsconfig.json
